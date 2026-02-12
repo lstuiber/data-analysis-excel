@@ -1,3 +1,6 @@
+<img width="1870" height="556" alt="image" src="https://github.com/user-attachments/assets/c27e82e1-be32-4480-93e9-f0ecc6775e09" />
+
+
 ## Analysis Overview
 ### 1. Business Needs
 <strong>What products are the bestsellers and when do the customers buy the most?</strong>
